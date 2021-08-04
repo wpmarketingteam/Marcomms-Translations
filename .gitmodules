@@ -1,0 +1,3 @@
+[submodule "Polyglots/Polyglots/Marcomms-Polyglots"]
+	path = Polyglots/Polyglots/Marcomms-Polyglots
+	url = https://github.com/wpmarketingteam/Marcomms-Translations
